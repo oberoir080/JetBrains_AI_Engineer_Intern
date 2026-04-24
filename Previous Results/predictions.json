@@ -1,0 +1,626 @@
+{
+  "nano": {
+    "model": "gpt-5.4-nano",
+    "reasoning_lvl": "off",
+    "predictions": [
+      {
+        "question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "gold": "yes",
+        "predicted": "No.  \n\n- **Scott Derrickson** is **American**.  \n- **Ed Wood** (the filmmaker) was **American** as well.  \n\nSo they were actually **the same nationality: American**."
+      },
+      {
+        "question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "gold": "Chief of Protocol",
+        "predicted": "The woman who portrayed **Corliss Archer** in *Kiss and Tell* (1943) was **Jane Withers**. She did **not** hold any government position\u2014she was an actress."
+      },
+      {
+        "question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "gold": "Animorphs",
+        "predicted": "That description matches **_The Interdependency_** series by **John Scalzi**\u2014specifically the **_Interdependency_** YA/first-person series, along with its companion books that expand on **enslaved worlds** and **alien species**."
+      },
+      {
+        "question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "gold": "no",
+        "predicted": "Yes. Both the **Laleli Mosque** and the **Esma Sultan Mansion (Esma Sultan Yal\u0131s\u0131)** are located in **Fatih, Istanbul**, in the **Laleli** area/neighborhood."
+      },
+      {
+        "question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "gold": "Greenwich Village, New York City",
+        "predicted": "The director of **\u201cBig Stone Gap\u201d** is **Tyler Perry**\u2014and he is based in **Atlanta, Georgia**, not New York City."
+      },
+      {
+        "question": "2014 S/S is the debut album of a South Korean boy group that was formed by who?",
+        "gold": "YG Entertainment",
+        "predicted": "The boy group behind **2014 S/S** is **B.A.P**, and they were formed by **TS Entertainment**."
+      },
+      {
+        "question": "Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?",
+        "gold": "Eenasul Fateh",
+        "predicted": "The person was **Aladin (stage name)** \u2014 a consultant known for helping organizations improve their performance."
+      },
+      {
+        "question": "The arena where the Lewiston Maineiacs played their home games can seat how many people?",
+        "gold": "3,677 seated",
+        "predicted": "The Lewiston Maineiacs played their home games at **Androscoggin Bank Colis\u00e9e**, which has a seating capacity of **about 3,500** people."
+      },
+      {
+        "question": "Who is older, Annie Morton or Terry Richardson?",
+        "gold": "Terry Richardson",
+        "predicted": "I\u2019m not sure which \u201cAnnie Morton\u201d you mean (there are multiple people with that name), and I don\u2019t have reliable birth-date information for either person to compare their ages.  \n\nIf you share a link or a bit more identifying info (e.g., profession, nationality, or a birth year), I can try again."
+      },
+      {
+        "question": "Are Local H and For Against both from the United States?",
+        "gold": "yes",
+        "predicted": "I\u2019m not sure which \u201cLocal H\u201d and \u201cFor\u201d you mean.\n\n- **Local H**: Yes\u2014**Local H** is an American band (from **Illinois, United States**).\n- **\u201cFor\u201d**: I can\u2019t tell which group you mean by **For**. There are multiple bands/artists with that name, and I don\u2019t know their origin from your wording.\n\nIf you tell me the full name (or a link) for the \u201cFor\u201d you mean, I can confirm whether they\u2019re from the United States."
+      },
+      {
+        "question": "What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?",
+        "gold": "Kansas Song",
+        "predicted": "The university is **University of Kansas (KU)**, whose main campus is in **Lawrence, Kansas** and whose branch campuses are in the **Kansas City metropolitan area**.  \n\nIts fight song is **\u201cGo, Jayhawks, Go.\u201d**"
+      },
+      {
+        "question": "What screenwriter with credits for \"Evolution\" co-wrote a film starring Nicolas Cage and T\u00e9a Leoni?",
+        "gold": "David Weissman",
+        "predicted": "The screenwriter is **John August**\u2014he co-wrote *Evolution* and also co-wrote the Nicolas Cage/T\u00e9a Leoni film **The Family Man**."
+      },
+      {
+        "question": "What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?",
+        "gold": "1999",
+        "predicted": "Guns N\u2019 Roses performed a promo for the Arnold Schwarzenegger movie **\u201cThe Last Action Hero\u201d** in **1993**."
+      },
+      {
+        "question": "Are Random House Tower and 888 7th Avenue both used for real estate?",
+        "gold": "no",
+        "predicted": "Yes\u2014both are real estate properties used for commercial office space.\n\n- **Random House Tower** (at **1745 Broadway**, NYC) is a **commercial office building** (historically associated with the Random House publishing company, but the building is used as office space).\n- **888 7th Avenue** (NYC) is also a **commercial office building**."
+      },
+      {
+        "question": "The football manager who recruited David Beckham managed Manchester United during what timeframe?",
+        "gold": "from 1986 to 2013",
+        "predicted": "The football manager who recruited David Beckham was **Sir Alex Ferguson**. He managed **Manchester United from 1986 to 2013**."
+      },
+      {
+        "question": "Brown State Fishing Lake is in a country that has a population of how many inhabitants ?",
+        "gold": "9,984",
+        "predicted": "I\u2019m not sure which \u201cBrown State Fishing Lake\u201d you mean (there are multiple similarly named places), and I can\u2019t reliably identify the country from that name alone.\n\nIf you tell me the **country** (or the **state/region + nearest city**), I can tell you the population of that country."
+      },
+      {
+        "question": "The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?",
+        "gold": "the North Atlantic Conference",
+        "predicted": "The Vermont Catamounts compete in the **America East Conference**. That conference was formerly known as the **Northeast Conference** from **1988 to 1996**."
+      },
+      {
+        "question": "Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?",
+        "gold": "yes",
+        "predicted": "Yes. **Giuseppe Verdi** and **Ambroise Thomas** were both **opera composers**.\n\n- **Giuseppe Verdi** (Italian, 19th century) is one of the most famous composers of **Italian opera** (e.g., *La Traviata*, *Rigoletto*, *Aida*).\n- **Ambroise Thomas** (French, 19th century) composed many **French operas** (e.g., *Mignon*, *Hamlet*)."
+      },
+      {
+        "question": "Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?",
+        "gold": "1969 until 1974",
+        "predicted": "Roger O. Egeberg served as Assistant Secretary for Health and Scientific Affairs during President **Richard Nixon\u2019s** administration, which ran from **1969 to 1974**."
+      },
+      {
+        "question": "Which writer was from England, Henry Roth or Robert Erskine Childers?",
+        "gold": "Robert Erskine Childers DSC",
+        "predicted": "**Robert Erskine Childers** was from England. **Henry Roth** was American (born in the U.S.)."
+      },
+      {
+        "question": "Which other Mexican Formula One race car driver has held the podium besides the Force India driver born in 1990?",
+        "gold": "Pedro Rodr\u00edguez",
+        "predicted": "The Force India driver born in 1990 is **Sergio P\u00e9rez**. Another Mexican Formula One driver who has also stood on the podium is **Pedro Rodr\u00edguez**."
+      },
+      {
+        "question": "This singer of A Rather Blustery Day also voiced what hedgehog?",
+        "gold": "Sonic",
+        "predicted": "The singer of **\u201cA Rather Blustery Day\u201d** also voiced **Sonic the Hedgehog**."
+      },
+      {
+        "question": "Aside from the Apple Remote, what other device can control the program Apple Remote was originally designed to interact with?",
+        "gold": "keyboard function keys",
+        "predicted": "Apple Remote was originally designed to control **Apple TV** (the set-top box)."
+      },
+      {
+        "question": "Which performance act has a higher instrument to person ratio, Badly Drawn Boy or Wolf Alice? ",
+        "gold": "Badly Drawn Boy",
+        "predicted": "I don\u2019t have enough information to determine this reliably. \u201cInstrument to person ratio\u201d depends on what you count as an \u201cinstrument\u201d (e.g., only on-stage instruments vs. backing tracks, DJs, additional musicians, etc.) and which specific performance/lineup you mean for each artist.\n\nIf you tell me the exact performance (date/venue or setlist/video link) and what you\u2019re counting as instruments, I can compute the ratio and compare **Badly Drawn Boy vs. Wolf Alice**."
+      },
+      {
+        "question": "What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?",
+        "gold": "World's Best Goalkeeper",
+        "predicted": "The IFFHS voted **Peter Schmeichel** (Kasper Schmeichel\u2019s father) to be **World\u2019s Best Goalkeeper** in **1992**."
+      },
+      {
+        "question": "Who was the writer of These Boots Are Made for Walkin' and who died in 2007?",
+        "gold": "Barton Lee Hazlewood",
+        "predicted": "\u201cThese Boots Are Made for Walkin\u2019\u201d was written by **Lee Hazlewood**. He **died in 2007**."
+      },
+      {
+        "question": "The 2011\u201312 VCU Rams men's basketball team, led by third year head coach Shaka Smart, represented Virginia Commonwealth University which was founded in what year?",
+        "gold": "1838",
+        "predicted": "VCU (Virginia Commonwealth University) was founded in **1838**."
+      },
+      {
+        "question": "Are both Dictyosperma, and Huernia described as a genus?",
+        "gold": "yes",
+        "predicted": "Yes. **Dictyosperma** is a **genus** (a palm genus). **Huernia** is also a **genus** (a genus of succulent plants in the milkweed family, Apocynaceae)."
+      },
+      {
+        "question": "Kaiser Ventures corporation was founded by an American industrialist who became known as the father of modern American shipbuilding?",
+        "gold": "Henry J. Kaiser",
+        "predicted": "Kaiser Ventures Corporation was founded by **Henry J. Kaiser**, the American industrialist often referred to as the **\u201cfather of modern American shipbuilding.\u201d**"
+      },
+      {
+        "question": "What is the name for the adventure in \"Tunnels and Trolls\", a game designed by Ken St. Andre?",
+        "gold": "Arena of Khazan",
+        "predicted": "In **Tunnels & Trolls** (designed by **Ken St. Andre**), the adventure is called **_The Warlock of Firetop Mountain_**."
+      }
+    ]
+  },
+  "mini": {
+    "model": "gpt-5.4-mini",
+    "reasoning_lvl": "off",
+    "predictions": [
+      {
+        "question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "gold": "yes",
+        "predicted": "No. Scott Derrickson is American, while Ed Wood was also American. So yes, they were of the same nationality."
+      },
+      {
+        "question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "gold": "Chief of Protocol",
+        "predicted": "The woman who portrayed Corliss Archer in *Kiss and Tell* was **Shirley Temple**. She later served as **U.S. Ambassador to Ghana**."
+      },
+      {
+        "question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "gold": "Animorphs",
+        "predicted": "That sounds like **_The Hunger Games_**?  \n\nIf you mean a **science-fantasy YA series in first person with companion books about enslaved worlds and alien species**, the best match is **_The Lorien Legacies_** by **Pittacus Lore** \u2014 especially because it has companion material expanding on other worlds and species.\n\nIf you want, I can try to narrow it down further with a few more clues."
+      },
+      {
+        "question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "gold": "no",
+        "predicted": "No. The Laleli Mosque is in **Laleli**, while Esma Sultan Mansion is in **Ortak\u00f6y**. They are in different neighborhoods of Istanbul."
+      },
+      {
+        "question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "gold": "Greenwich Village, New York City",
+        "predicted": "The director of *Big Stone Gap*, Adriana Trigiani, is based in **New York City**."
+      },
+      {
+        "question": "2014 S/S is the debut album of a South Korean boy group that was formed by who?",
+        "gold": "YG Entertainment",
+        "predicted": "It was formed by **YG Entertainment**."
+      },
+      {
+        "question": "Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?",
+        "gold": "Eenasul Fateh",
+        "predicted": "Aladin was the stage name of **Alaa Abdelnaby**?"
+      },
+      {
+        "question": "The arena where the Lewiston Maineiacs played their home games can seat how many people?",
+        "gold": "3,677 seated",
+        "predicted": "The arena could seat **4,000 people**."
+      },
+      {
+        "question": "Who is older, Annie Morton or Terry Richardson?",
+        "gold": "Terry Richardson",
+        "predicted": "Terry Richardson is older."
+      },
+      {
+        "question": "Are Local H and For Against both from the United States?",
+        "gold": "yes",
+        "predicted": "Yes. Both Local H and For Against are from the United States."
+      },
+      {
+        "question": "What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?",
+        "gold": "Kansas Song",
+        "predicted": "The fight song is **\u201cI\u2019m a Jayhawk.\u201d**"
+      },
+      {
+        "question": "What screenwriter with credits for \"Evolution\" co-wrote a film starring Nicolas Cage and T\u00e9a Leoni?",
+        "gold": "David Weissman",
+        "predicted": "David Diamond co-wrote **_The Family Man_**, which stars **Nicolas Cage** and **T\u00e9a Leoni**."
+      },
+      {
+        "question": "What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?",
+        "gold": "1999",
+        "predicted": "1993."
+      },
+      {
+        "question": "Are Random House Tower and 888 7th Avenue both used for real estate?",
+        "gold": "no",
+        "predicted": "Yes. Both Random House Tower and 888 7th Avenue are office buildings used for commercial real estate."
+      },
+      {
+        "question": "The football manager who recruited David Beckham managed Manchester United during what timeframe?",
+        "gold": "from 1986 to 2013",
+        "predicted": "Sir Alex Ferguson managed Manchester United from **1986 to 2013**."
+      },
+      {
+        "question": "Brown State Fishing Lake is in a country that has a population of how many inhabitants ?",
+        "gold": "9,984",
+        "predicted": "Brown State Fishing Lake is in the United States, which has a population of about **335 million inhabitants**."
+      },
+      {
+        "question": "The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?",
+        "gold": "the North Atlantic Conference",
+        "predicted": "The America East Conference was formerly known as the **North Atlantic Conference** from 1988 to 1996."
+      },
+      {
+        "question": "Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?",
+        "gold": "yes",
+        "predicted": "Yes. Giuseppe Verdi and Ambroise Thomas were both opera composers."
+      },
+      {
+        "question": "Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?",
+        "gold": "1969 until 1974",
+        "predicted": "Roger O. Egeberg served under President Richard Nixon, who was in office from **1969 to 1974**."
+      },
+      {
+        "question": "Which writer was from England, Henry Roth or Robert Erskine Childers?",
+        "gold": "Robert Erskine Childers DSC",
+        "predicted": "Robert Erskine Childers was from England. Henry Roth was born in what is now Ukraine and later lived in the United States."
+      },
+      {
+        "question": "Which other Mexican Formula One race car driver has held the podium besides the Force India driver born in 1990?",
+        "gold": "Pedro Rodr\u00edguez",
+        "predicted": "The other Mexican Formula One driver to have stood on the podium is **Pedro Rodr\u00edguez**."
+      },
+      {
+        "question": "This singer of A Rather Blustery Day also voiced what hedgehog?",
+        "gold": "Sonic",
+        "predicted": "Sonic the Hedgehog."
+      },
+      {
+        "question": "Aside from the Apple Remote, what other device can control the program Apple Remote was originally designed to interact with?",
+        "gold": "keyboard function keys",
+        "predicted": "An **iPhone or iPod touch** can also control it, using the **Remote** app."
+      },
+      {
+        "question": "Which performance act has a higher instrument to person ratio, Badly Drawn Boy or Wolf Alice? ",
+        "gold": "Badly Drawn Boy",
+        "predicted": "Wolf Alice has the higher instrument-to-person ratio.\n\n- **Badly Drawn Boy**: typically a solo act, so the ratio is usually lower.\n- **Wolf Alice**: a band with multiple members and multiple instruments, so the ratio is higher."
+      },
+      {
+        "question": "What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?",
+        "gold": "World's Best Goalkeeper",
+        "predicted": "Peter Schmeichel was voted the **world\u2019s best goalkeeper** by the IFFHS in 1992."
+      },
+      {
+        "question": "Who was the writer of These Boots Are Made for Walkin' and who died in 2007?",
+        "gold": "Barton Lee Hazlewood",
+        "predicted": "The writer of **\u201cThese Boots Are Made for Walkin\u2019\u201d** was **Lee Hazlewood**, who died in **2007**."
+      },
+      {
+        "question": "The 2011\u201312 VCU Rams men's basketball team, led by third year head coach Shaka Smart, represented Virginia Commonwealth University which was founded in what year?",
+        "gold": "1838",
+        "predicted": "Virginia Commonwealth University was founded in **1838**."
+      },
+      {
+        "question": "Are both Dictyosperma, and Huernia described as a genus?",
+        "gold": "yes",
+        "predicted": "Yes. Both **Dictyosperma** and **Huernia** are described as **genera** (plural of genus)."
+      },
+      {
+        "question": "Kaiser Ventures corporation was founded by an American industrialist who became known as the father of modern American shipbuilding?",
+        "gold": "Henry J. Kaiser",
+        "predicted": "Henry J. Kaiser."
+      },
+      {
+        "question": "What is the name for the adventure in \"Tunnels and Trolls\", a game designed by Ken St. Andre?",
+        "gold": "Arena of Khazan",
+        "predicted": "It\u2019s called a **solo adventure**."
+      }
+    ]
+  },
+  "normal": {
+    "model": "gpt-5.4",
+    "reasoning_lvl": "off",
+    "predictions": [
+      {
+        "question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "gold": "yes",
+        "predicted": "Yes. Scott Derrickson and Ed Wood were both American."
+      },
+      {
+        "question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "gold": "Chief of Protocol",
+        "predicted": "The woman who portrayed Corliss Archer in *Kiss and Tell* was **Shirley Temple**, and she later served as **United States Ambassador to Ghana**."
+      },
+      {
+        "question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "gold": "Animorphs",
+        "predicted": "You\u2019re probably thinking of **The Locked Tomb** by **Tamsyn Muir**.\n\nWhy it fits:\n- **Science fantasy**\n- **Young adult / crossover appeal**\n- Often **first-person or very close character POV**\n- Has companion-style material and side stories expanding the setting\n- Features **subjugated planets/worlds** and **nonhuman/alien-feeling entities/species**\n\nIf you mean a series with actual separate companion books specifically focused on different oppressed worlds/species, another possibility is **The Diabolic** series by **S.J. Kincaid**, though it\u2019s less of a clean match.\n\nIf you want, I can help narrow it down with:\n- approximate publication decade,\n- whether the protagonist was human,\n- whether the \u201ccompanion books\u201d were full novels or anthologies."
+      },
+      {
+        "question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "gold": "no",
+        "predicted": "No.\n\nLaleli Mosque is in the **Laleli** area of **Fatih**, while **Esma Sultan Mansion** is in **Ortak\u00f6y** in **Be\u015fikta\u015f**. They are in different neighborhoods and on different sides of central Istanbul."
+      },
+      {
+        "question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "gold": "Greenwich Village, New York City",
+        "predicted": "The director of *Big Stone Gap*, Adriana Trigiani, is based in **New York City**."
+      },
+      {
+        "question": "2014 S/S is the debut album of a South Korean boy group that was formed by who?",
+        "gold": "YG Entertainment",
+        "predicted": "**2014 S/S** is the debut album of **WINNER**, a South Korean boy group formed by **YG Entertainment**."
+      },
+      {
+        "question": "Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?",
+        "gold": "Eenasul Fateh",
+        "predicted": "It was **Lars \u201cAladin\u201d Johansson** \u2014 known by the stage name **Aladin**, and later worked as a **consultant helping organizations improve their performance**."
+      },
+      {
+        "question": "The arena where the Lewiston Maineiacs played their home games can seat how many people?",
+        "gold": "3,677 seated",
+        "predicted": "The Lewiston Maineiacs played at the **Androscoggin Bank Colis\u00e9e** in Lewiston, Maine, which has a seating capacity of **3,677** for hockey."
+      },
+      {
+        "question": "Who is older, Annie Morton or Terry Richardson?",
+        "gold": "Terry Richardson",
+        "predicted": "Terry Richardson is older.\n\n- Terry Richardson: born August 14, 1965  \n- Annie Morton: born October 8, 1970"
+      },
+      {
+        "question": "Are Local H and For Against both from the United States?",
+        "gold": "yes",
+        "predicted": "Yes. Local H is an American band from Illinois, and For Against is an American band from Nebraska."
+      },
+      {
+        "question": "What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?",
+        "gold": "Kansas Song",
+        "predicted": "The university is the University of Kansas, and its fight song is **\u201cI\u2019m a Jayhawk.\u201d**"
+      },
+      {
+        "question": "What screenwriter with credits for \"Evolution\" co-wrote a film starring Nicolas Cage and T\u00e9a Leoni?",
+        "gold": "David Weissman",
+        "predicted": "David Diamond.\n\nHe co-wrote **Evolution** and also co-wrote **The Family Man**, which stars **Nicolas Cage** and **T\u00e9a Leoni**."
+      },
+      {
+        "question": "What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?",
+        "gold": "1999",
+        "predicted": "1991. They appeared in a promo tied to *Terminator 2: Judgment Day*, which starred Arnold Schwarzenegger."
+      },
+      {
+        "question": "Are Random House Tower and 888 7th Avenue both used for real estate?",
+        "gold": "no",
+        "predicted": "Yes. Both are buildings associated with real estate use, though in different ways:\n\n- **Random House Tower**: primarily an **office/commercial building**.\n- **888 7th Avenue**: also primarily an **office/commercial building**.\n\nSo if by \u201cused for real estate\u201d you mean buildings used as commercial real estate, then **yes, both are**."
+      },
+      {
+        "question": "The football manager who recruited David Beckham managed Manchester United during what timeframe?",
+        "gold": "from 1986 to 2013",
+        "predicted": "David Beckham was recruited into Manchester United\u2019s youth setup under Sir Alex Ferguson, who managed Manchester United from **1986 to 2013**."
+      },
+      {
+        "question": "Brown State Fishing Lake is in a country that has a population of how many inhabitants ?",
+        "gold": "9,984",
+        "predicted": "Brown State Fishing Lake is in the United States, which has a population of about **335 million inhabitants**."
+      },
+      {
+        "question": "The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?",
+        "gold": "the North Atlantic Conference",
+        "predicted": "The Vermont Catamounts men's soccer team competes in the **America East Conference**, which was formerly known as the **North Atlantic Conference** from **1988 to 1996**."
+      },
+      {
+        "question": "Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?",
+        "gold": "yes",
+        "predicted": "Yes. Giuseppe Verdi and Ambroise Thomas were both opera composers."
+      },
+      {
+        "question": "Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?",
+        "gold": "1969 until 1974",
+        "predicted": "Roger O. Egeberg served during the administration of **President Richard Nixon**, who was in office from **1969 to 1974**."
+      },
+      {
+        "question": "Which writer was from England, Henry Roth or Robert Erskine Childers?",
+        "gold": "Robert Erskine Childers DSC",
+        "predicted": "Robert Erskine Childers. He was born in London, England. Henry Roth was American."
+      },
+      {
+        "question": "Which other Mexican Formula One race car driver has held the podium besides the Force India driver born in 1990?",
+        "gold": "Pedro Rodr\u00edguez",
+        "predicted": "The other Mexican Formula One driver to have stood on the podium is **Pedro Rodr\u00edguez**."
+      },
+      {
+        "question": "This singer of A Rather Blustery Day also voiced what hedgehog?",
+        "gold": "Sonic",
+        "predicted": "The singer of **\u201cA Rather Blustery Day\u201d** was **Jim Cummings** (as Winnie the Pooh), and he also voiced **Manic the Hedgehog** in *Sonic Underground*."
+      },
+      {
+        "question": "Aside from the Apple Remote, what other device can control the program Apple Remote was originally designed to interact with?",
+        "gold": "keyboard function keys",
+        "predicted": "Apple Remote was originally designed to control **Front Row**. Besides the Apple Remote itself, **a keyboard** could also control Front Row."
+      },
+      {
+        "question": "Which performance act has a higher instrument to person ratio, Badly Drawn Boy or Wolf Alice? ",
+        "gold": "Badly Drawn Boy",
+        "predicted": "Badly Drawn Boy.\n\nHe\u2019s a solo act, so even a modest multi-instrument setup gives a higher instruments-per-person ratio than Wolf Alice, which is a four-person band."
+      },
+      {
+        "question": "What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?",
+        "gold": "World's Best Goalkeeper",
+        "predicted": "He was voted the **World\u2019s Best Goalkeeper** by the IFFHS in 1992."
+      },
+      {
+        "question": "Who was the writer of These Boots Are Made for Walkin' and who died in 2007?",
+        "gold": "Barton Lee Hazlewood",
+        "predicted": "Lee Hazlewood."
+      },
+      {
+        "question": "The 2011\u201312 VCU Rams men's basketball team, led by third year head coach Shaka Smart, represented Virginia Commonwealth University which was founded in what year?",
+        "gold": "1838",
+        "predicted": "Virginia Commonwealth University was founded in **1838**."
+      },
+      {
+        "question": "Are both Dictyosperma, and Huernia described as a genus?",
+        "gold": "yes",
+        "predicted": "Yes. Both **Dictyosperma** and **Huernia** are described as **genera**.\n\n- **Dictyosperma**: a genus of palms\n- **Huernia**: a genus of succulent flowering plants in the dogbane family (Apocynaceae)"
+      },
+      {
+        "question": "Kaiser Ventures corporation was founded by an American industrialist who became known as the father of modern American shipbuilding?",
+        "gold": "Henry J. Kaiser",
+        "predicted": "Yes. Kaiser Ventures traces back to Henry J. Kaiser, the American industrialist often called the father of modern American shipbuilding."
+      },
+      {
+        "question": "What is the name for the adventure in \"Tunnels and Trolls\", a game designed by Ken St. Andre?",
+        "gold": "Arena of Khazan",
+        "predicted": "In **Tunnels & Trolls**, an adventure is typically called a **solo** if it\u2019s designed for one player, or simply an **adventure**/**scenario** in general.\n\nIf you mean the distinctive T&T term, the best-known one is **solo adventure**."
+      }
+    ]
+  },
+  "reasoning": {
+    "model": "gpt-5.4",
+    "reasoning_lvl": "medium",
+    "predictions": [
+      {
+        "question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "gold": "yes",
+        "predicted": "Yes. Both Scott Derrickson and Ed Wood were American."
+      },
+      {
+        "question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+        "gold": "Chief of Protocol",
+        "predicted": "Shirley Temple, who played Corliss Archer, later served as a U.S. ambassador\u2014most notably Ambassador to Ghana, and later Ambassador to Czechoslovakia."
+      },
+      {
+        "question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+        "gold": "Animorphs",
+        "predicted": "Animorphs by K.A. Applegate. Its companion books include ones like The Andalite Chronicles and The Hork-Bajir Chronicles, which tell the histories of alien species and conquered worlds."
+      },
+      {
+        "question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "gold": "no",
+        "predicted": "No. Laleli Mosque is in the Laleli area of Fatih, while Esma Sultan Mansion is in Ortak\u00f6y, Be\u015fikta\u015f."
+      },
+      {
+        "question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+        "gold": "Greenwich Village, New York City",
+        "predicted": "New York City."
+      },
+      {
+        "question": "2014 S/S is the debut album of a South Korean boy group that was formed by who?",
+        "gold": "YG Entertainment",
+        "predicted": "YG Entertainment."
+      },
+      {
+        "question": "Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?",
+        "gold": "Eenasul Fateh",
+        "predicted": ""
+      },
+      {
+        "question": "The arena where the Lewiston Maineiacs played their home games can seat how many people?",
+        "gold": "3,677 seated",
+        "predicted": "It can seat **3,677 people**."
+      },
+      {
+        "question": "Who is older, Annie Morton or Terry Richardson?",
+        "gold": "Terry Richardson",
+        "predicted": "Terry Richardson is older. He was born in 1965; Annie Morton was born in 1970."
+      },
+      {
+        "question": "Are Local H and For Against both from the United States?",
+        "gold": "yes",
+        "predicted": "Yes. Local H is from Illinois, and For Against is from Nebraska, so both are from the United States."
+      },
+      {
+        "question": "What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?",
+        "gold": "Kansas Song",
+        "predicted": "The fight song is **\u201cI\u2019m a Jayhawk.\u201d**"
+      },
+      {
+        "question": "What screenwriter with credits for \"Evolution\" co-wrote a film starring Nicolas Cage and T\u00e9a Leoni?",
+        "gold": "David Weissman",
+        "predicted": "David Diamond \u2014 and also David Weissman. Both have writing credits on *Evolution* and co-wrote *The Family Man*, which stars Nicolas Cage and T\u00e9a Leoni."
+      },
+      {
+        "question": "What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?",
+        "gold": "1999",
+        "predicted": "1999."
+      },
+      {
+        "question": "Are Random House Tower and 888 7th Avenue both used for real estate?",
+        "gold": "no",
+        "predicted": "Yes. Both are buildings/properties in New York City, so both fall under real estate."
+      },
+      {
+        "question": "The football manager who recruited David Beckham managed Manchester United during what timeframe?",
+        "gold": "from 1986 to 2013",
+        "predicted": "Sir Alex Ferguson managed Manchester United from November 1986 to May 2013."
+      },
+      {
+        "question": "Brown State Fishing Lake is in a country that has a population of how many inhabitants ?",
+        "gold": "9,984",
+        "predicted": "About 319 million people."
+      },
+      {
+        "question": "The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?",
+        "gold": "the North Atlantic Conference",
+        "predicted": "The North Atlantic Conference."
+      },
+      {
+        "question": "Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?",
+        "gold": "yes",
+        "predicted": "Yes. Giuseppe Verdi and Ambroise Thomas were both opera composers.\n\n- Giuseppe Verdi was an Italian opera composer.\n- Ambroise Thomas was a French opera composer."
+      },
+      {
+        "question": "Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?",
+        "gold": "1969 until 1974",
+        "predicted": "Richard Nixon \u2014 he served as president from **1969 to 1974**."
+      },
+      {
+        "question": "Which writer was from England, Henry Roth or Robert Erskine Childers?",
+        "gold": "Robert Erskine Childers DSC",
+        "predicted": "Robert Erskine Childers was from England."
+      },
+      {
+        "question": "Which other Mexican Formula One race car driver has held the podium besides the Force India driver born in 1990?",
+        "gold": "Pedro Rodr\u00edguez",
+        "predicted": "Pedro Rodr\u00edguez. He was the other Mexican Formula One driver to score podium finishes, including two Grand Prix wins."
+      },
+      {
+        "question": "This singer of A Rather Blustery Day also voiced what hedgehog?",
+        "gold": "Sonic",
+        "predicted": ""
+      },
+      {
+        "question": "Aside from the Apple Remote, what other device can control the program Apple Remote was originally designed to interact with?",
+        "gold": "keyboard function keys",
+        "predicted": "A Mac keyboard can also control Front Row."
+      },
+      {
+        "question": "Which performance act has a higher instrument to person ratio, Badly Drawn Boy or Wolf Alice? ",
+        "gold": "Badly Drawn Boy",
+        "predicted": "Badly Drawn Boy has the higher instrument-to-person ratio."
+      },
+      {
+        "question": "What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?",
+        "gold": "World's Best Goalkeeper",
+        "predicted": "He was voted the **World\u2019s Best Goalkeeper** by the IFFHS in 1992."
+      },
+      {
+        "question": "Who was the writer of These Boots Are Made for Walkin' and who died in 2007?",
+        "gold": "Barton Lee Hazlewood",
+        "predicted": "Lee Hazlewood."
+      },
+      {
+        "question": "The 2011\u201312 VCU Rams men's basketball team, led by third year head coach Shaka Smart, represented Virginia Commonwealth University which was founded in what year?",
+        "gold": "1838",
+        "predicted": "Virginia Commonwealth University was established in **1968**; its institutional roots go back to **1838**."
+      },
+      {
+        "question": "Are both Dictyosperma, and Huernia described as a genus?",
+        "gold": "yes",
+        "predicted": "Yes. Both **Dictyosperma** and **Huernia** are **genera**.\n\n- **Dictyosperma**: a genus of palms\n- **Huernia**: a genus of succulent flowering plants in the dogbane family\n\nSo the answer is **yes, both are described as a genus**."
+      },
+      {
+        "question": "Kaiser Ventures corporation was founded by an American industrialist who became known as the father of modern American shipbuilding?",
+        "gold": "Henry J. Kaiser",
+        "predicted": "Yes \u2014 **Kaiser Ventures** was founded by **Henry J. Kaiser**, the American industrialist often called the **father of modern American shipbuilding**."
+      },
+      {
+        "question": "What is the name for the adventure in \"Tunnels and Trolls\", a game designed by Ken St. Andre?",
+        "gold": "Arena of Khazan",
+        "predicted": "If you mean the best-known Tunnels & Trolls adventure, it\u2019s **Buffalo Castle**."
+      }
+    ]
+  }
+}
