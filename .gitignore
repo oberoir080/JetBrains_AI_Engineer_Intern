@@ -1,5 +1,12 @@
 .env
 text.txt
+.vscode-server/
+.cursor-server/
+.windsurf-server/
+.lightning_studio/
+.idea/
+.vscode/
+__pycache__/
 
 *.ipynb
 !main.ipynb
