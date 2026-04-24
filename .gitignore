@@ -1,0 +1,5 @@
+.env
+text.txt
+
+*.ipynb
+!main.ipynb
