@@ -29,7 +29,7 @@ To evaluate performance and cost-efficiency, I compared the brute-force Baseline
 | | **KG-RAG** | **52.0%** | **72.0%** | **~200 (10x Reduction)** |
 | **gpt-4o** | Baseline | 60.0% | 84.0% | ~2,000 |
 | | **KG-RAG** | **56.0%** | **72.0%** | **~200 (10x Reduction)** |
-| **o3-mini** | Baseline | 56.0% | 84.0% | ~2,000 |
+| **o3-mini (medium reasoning)** | Baseline | 56.0% | 84.0% | ~2,000 |
 | | **KG-RAG** | **52.0%** | **72.0%** | **~200 (10x Reduction)** |
 
 ## ⚙️ Architecture Flow
