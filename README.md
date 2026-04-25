@@ -45,7 +45,7 @@ The stem agent selected KG-RAG for the task class *Multi-Hop Question Answering 
 | **o3-mini** | Baseline | 52.0% | 72.0% | ~3,500 |
 | | **KG-RAG** | **52.0%** | **72.0%** | **~250 (~10x reduction)** |
 
-The stem agent adds a one-time overhead of approximately 5,700 tokens (discovery + self-evaluation). At 25 questions, the per-query savings of ~3,250 tokens accumulate to roughly 70,000 tokens saved, meaning the stem agent pays for its own overhead within the first 2 queries.
+The stem agent adds a one-time overhead of approximately 5,700 tokens (discovery + self-evaluation). At 25 questions, the per-query savings of ~3,000-4,000 tokens accumulate to roughly 70,000 tokens saved, meaning the stem agent pays for its own overhead within the first 3-4 queries.
 
 ## ⚙️ Architecture Flow
 
