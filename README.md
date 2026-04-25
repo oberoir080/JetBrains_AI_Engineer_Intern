@@ -1,4 +1,4 @@
-# High-Efficiency Knowledge Graph RAG (KG-RAG) for Multi-Hop QA
+# A Self-Specializing Stem Agent for Multi-Hop Question Answering
 
 **Author:** Rahul Oberoi  
 **Program:** M.Sc. Computational Linguistics, University of Stuttgart  
@@ -8,7 +8,7 @@
 
 **1. Clone the repository and install dependencies:**
 ```bash
-git clone [https://github.com/oberoir080/JetBrains_AI_Engineer_Intern.git](https://github.com/oberoir080/JetBrains_AI_Engineer_Intern.git)
+git clone https://github.com/oberoir080/JetBrains_AI_Engineer_Intern.git
 cd JetBrains_AI_Engineer_Intern
 pip install -r requirements.txt
 ```
